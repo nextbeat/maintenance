@@ -1,0 +1,1 @@
+Simple web server which handles redirected traffic when API/web servers are down for maintenance. 
