@@ -1,1 +1,1 @@
-Simple web server which handles redirected traffic when API/web servers are down for maintenance. 
+Simple web server which handles redirected traffic when the application is down for maintenance. See the infrastructure repo for instructions on how to deploy.
